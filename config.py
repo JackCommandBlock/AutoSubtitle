@@ -442,8 +442,8 @@ filter_upper = 11,183,255
 
 [pink]
 style = 粉色#正文#1
-filter_lower = 152,93,198
-filter_upper = 159,135,255
+filter_lower = 154,106,220
+filter_upper = 160,134,255
 
 [purple]
 style = 紫色#正文#1
@@ -452,8 +452,8 @@ filter_upper = 148,183,255
 
 [magenta]
 style = 品红色#正文#1
-filter_lower = 155,146,167
-filter_upper = 162,220,255
+filter_lower = 156,162,164
+filter_upper = 164,221,255
 
 [red]
 style = 红色#正文#1
